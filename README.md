@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 New graduated from Toronto Metropolitan University where I studied Computer Science with a concentration in Software Engineering.  
+
 Take a look at my website for more background on my side projects
 
 ### 🔭 I’m currently working on ...
