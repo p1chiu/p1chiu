@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+New graduated from Toronto Metropolitan University where I studied Computer Science with a concentration in Software Engineering.  
+Take a look at my website for more background on my side projects
+
+### 🔭 I’m currently working on ...
+
+- Web application projects to make processes in everyday life easier - right now I'm building a **Scheduling** system
+- Tools to help developers become more efficient in SCRUM workflows
+
+
 <!--
 **p1chiu/p1chiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
