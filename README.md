@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-New graduated from Toronto Metropolitan University where I studied Computer Science with a concentration in Software Engineering.  
+New graduate from Toronto Metropolitan University where I studied Computer Science with a concentration in Software Engineering.  
 
 Take a look at my [website](https://p1chiu.github.io/portfolio/) for more background on my side projects
 
