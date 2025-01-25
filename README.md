@@ -7,7 +7,7 @@ Take a look at my [website](https://p1chiu.github.io/portfolio/) for more backgr
 ### 🔭 I’m currently working on ...
 
 - Web application projects to make processes in everyday life easier - right now I'm building a **Scheduling** system
-- Tools to help developers become more efficient in SCRUM workflows
+- Tools that help simulate different aspects of life
 
 
 <!--
